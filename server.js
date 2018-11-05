@@ -101,7 +101,7 @@ updatesProvider.getUpdates(updates => {
     			})
 			});
 		
-		
+		}
 		else
 		{
 			
