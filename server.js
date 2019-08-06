@@ -6,7 +6,7 @@ var request = require("request"),
 
 
 let api = new VKApi({
-    token: 'b56af95f4b026ab7503a9bcee90d31370063192d3f98d5cd015dc3c46307f7d50d7b7629bafa6b5ed5661',
+    token: '',
     logger: new ConsoleLogger()
 })
 var group_id = 168308422
